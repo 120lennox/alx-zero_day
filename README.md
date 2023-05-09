@@ -1,1 +1,1 @@
-My first readme
+Basic git tasks at ALX day 0
